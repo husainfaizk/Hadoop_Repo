@@ -1,0 +1,17 @@
+#VERSION_NUMBER=3.0.1.1-5
+[HDF-3.0.1.1]
+name=HDF Version - HDF-3.0.1.1
+baseurl=http://master.pais.com/repo/hdf/HDF/centos7/3.x/updates/3.0.1.1
+gpgcheck=1
+gpgkey=http://master.pais.com/repo/hdf/HDF/centos7/3.x/updates/3.0.1.1/RPM-GPG-KEY/RPM-GPG-KEY-Jenkins
+enabled=1
+priority=1
+
+
+[HDP-UTILS-1.1.0.21]
+name=HDP-UTILS Version - HDP-UTILS-1.1.0.21
+baseurl=http://master.pais.com/repo/hdp/HDP-UTILS-1.1.0.21/repos/centos7
+gpgcheck=1
+gpgkey=http://master.pais.com/repo/hdp/HDP-UTILS-1.1.0.21/repos/centos7/RPM-GPG-KEY/RPM-GPG-KEY-Jenkins
+enabled=1
+priority=1

@@ -1,0 +1,12 @@
+Ambari Base URL
+
+    http://master.pais.com/repo/Ambari-2.5.1.0/centos7
+HDF Base URL
+
+    http://master.pais.com/repo/hdf/HDF/centos7/3.x/updates/3.0.1.1
+HDP Base URL
+
+    http://master.pais.com/repo/hdp/HDP/centos7/2.x/updates/2.6.1.0
+HDP-UTILS Base URL
+
+    http://master.pais.com/repo/hdp/HDP-UTILS-1.1.0.21/repos/centos7
